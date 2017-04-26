@@ -1,46 +1,46 @@
 exports.doctype = 'html';
 
-exports.happy = true;
+exports.happy = false;
 
 exports.sitemap = [
   {
-    header: 'Category A',
+    header: 'Some Useful Links',
     links: [
-      { name: 'Link A.1', url: '#' },
-      { name: 'Link A.2', url: '#' },
-      { name: 'Link A.3', url: '#' },
-      { name: 'Link A.4', url: '#' },
-      { name: 'Link A.5', url: '#' }
+      { name: 'cs52.me', url: 'http://cs52.me/' },
+      { name: 'dali.dartmouth.edu', url: 'http://dali.dartmouth.edu/' },
+      { name: 'json-feng.club', url: 'http://jasonfeng.com/' },
+      { name: 'agar.io', url: 'http://agar.io/' },
+      { name: 'giphy.com', url: 'https://giphy.com/' }
     ],
   },
   {
-    header: 'Category B',
+    header: 'Some Topkek Videos',
     links: [
-      { name: 'Link B.1', url: '#' },
-      { name: 'Link B.2', url: '#' },
-      { name: 'Link B.3', url: '#' },
-      { name: 'Link B.4', url: '#' },
-      { name: 'Link B.5', url: '#' }
+      { name: 'Spinnin Records in Under 3 Minutes', url: 'https://www.youtube.com/watch?v=ZJglqXNZNU4' },
+      { name: 'Colin\'s Bear Animation', url: 'https://www.youtube.com/watch?v=FiARsQSlzDc' },
+      { name: 'Dog Eats Banana', url: 'https://www.youtube.com/watch?v=HxQp9Jui3Nw' },
+      { name: 'Double King', url: 'https://www.youtube.com/watch?v=w_MSFkZHNi4' },
+      { name: 'DOG', url: 'https://www.youtube.com/watch?v=y9K18CGEeiI' }
     ],
   },
   {
-    header: 'Category C',
+    header: 'Master all the Basic Skills',
     links: [
-      { name: 'Link C.1', url: '#' },
-      { name: 'Link C.2', url: '#' },
-      { name: 'Link C.3', url: '#' },
-      { name: 'Link C.4', url: '#' },
-      { name: 'Link C.5', url: '#' }
+      { name: 'Dodge', url: '#' },
+      { name: 'Duck', url: '#' },
+      { name: 'Dip', url: '#' },
+      { name: 'Dive', url: '#' },
+      { name: 'Dodge', url: '#' }
     ],
   },
   {
-    header: 'Category D',
+    header: 'CS52 Helpful Links',
     links: [
-      { name: 'Link D.1', url: '#' },
-      { name: 'Link D.2', url: '#' },
-      { name: 'Link D.3', url: '#' },
-      { name: 'Link D.4', url: '#' },
-      { name: 'Link D.5', url: '#' }
+      { name: 'Lectures', url: '#' },
+      { name: 'Assignments', url: '#' },
+      { name: 'Styleguides', url: '#' },
+      { name: 'Souls of the Departed', url: '#' },
+      { name: 'Giphy.com', url: '#' }
     ],
   },
 ];
